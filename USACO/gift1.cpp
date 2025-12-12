@@ -15,7 +15,9 @@ int main() {
     ofstream fout ("test.out");
     ifstream fin ("test.in");
     int np;
+    
+    fin >> np;
 
-
+    
 
 }
