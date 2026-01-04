@@ -1,19 +1,19 @@
 # Number Completed
-- [3/150]
+- [5/150] (* (/ 5.0 150.0) 100)
+- 3.3%
 
 # Arrays and Hashing
 - [x] Contains Duplicate	
 - [x] Valid Anagram	
 - [x] Two Sum	
-- [ ] Group Anagrams	
-- [ ] Top K Frequent Elementa	
-- [ ] Encode and Decode Strings	
+- [x] Group Anagrams	
+- [x] Top K Frequent Elements
 - [ ] Product of Array Except Self	
 - [ ] Valid Sudoku	
 - [ ] Longest Consecutive Sequence
 
 # Two Pointers
-- [ ] Valid Palindromen	
+- [ ] Valid Palindrome	
 - [ ] Two Sum II Input Array Is Sorted	
 - [ ] 3Sum	
 - [ ] Container With Most Water	
