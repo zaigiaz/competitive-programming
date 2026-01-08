@@ -1,6 +1,6 @@
 # Number Completed
-- [5/150] (* (/ 5.0 150.0) 100)
-- 3.3%
+- [9/150] (* (/ 9.0 150.0) 100)
+- 6% done
 
 # Arrays and Hashing
 - [x] Contains Duplicate	
@@ -8,15 +8,15 @@
 - [x] Two Sum	
 - [x] Group Anagrams	
 - [x] Top K Frequent Elements
-- [ ] Product of Array Except Self	
+- [x] Product of Array Except Self	
 - [ ] Valid Sudoku	
 - [ ] Longest Consecutive Sequence
 
 # Two Pointers
-- [ ] Valid Palindrome	
+- [x] Valid Palindrome	
 - [ ] Two Sum II Input Array Is Sorted	
-- [ ] 3Sum	
-- [ ] Container With Most Water	
+- [x] 3Sum	
+- [x] Container With Most Water	
 - [ ] Trapping Rain Water 
 
 # Sliding Window
