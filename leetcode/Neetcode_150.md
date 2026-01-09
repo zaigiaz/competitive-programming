@@ -1,6 +1,6 @@
 # Number Completed
-- [9/150] (* (/ 9.0 150.0) 100)
-- 6% done
+- [11/150] (* (/ 11.0 150.0) 100)
+- 7.3% done
 
 # Arrays and Hashing
 - [x] Contains Duplicate	
@@ -20,8 +20,9 @@
 - [ ] Trapping Rain Water 
 
 # Sliding Window
+- [x] Maximum Average Subarray I
 - [ ] Best Time to Buy And Sell Stock	
-- [ ] Longest Substring Without Repeating Characters	
+- [x] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement	
 - [ ] Permutation In String	
 - [ ] Minimum Window Substring	
@@ -43,7 +44,6 @@
 - [ ] Search In Rotated Sorted Array	
 - [ ] Time Based Key Value Store	
 - [ ] Median of Two Sorted Arrays
-
 
 # Linked List
 - [ ] Reverse Linked List	
@@ -75,7 +75,6 @@
 - [ ] Binary Tree Maximum Path Sum	
 - [ ] Serialize And Deserialize Binary Tree   
 
-
 # Heap / Priority Queue
 - [ ] Kth Largest Element In a Stream	
 - [ ] Last Stone Weight	
@@ -84,7 +83,6 @@
 - [ ] Task Scheduler	
 - [ ] Design Twitter	
 - [ ] Find Median From Data Stream
-
 
 # Backtracking
 - [ ] Subsets	
@@ -101,7 +99,7 @@
 # Tries
 - [ ] Implement Trie Prefix Tree	
 - [ ] Design Add And Search Words Data Structure	
-p- [ ] Word Search II
+- [ ] Word Search II
 
 # Graphs
 - [ ] Number of Islands	
@@ -125,7 +123,6 @@ p- [ ] Word Search II
 - [ ] Swim In Rising Water	
 - [ ] Alien Dictionary	
 - [ ] Cheapest Flights Within K Stops 
-
 
 # Dynamic Programming 1
 - [ ] Climbing Stairs	
@@ -154,7 +151,6 @@ p- [ ] Word Search II
 - [ ] Edit Distance	
 - [ ] Burst Balloons	
 - [ ] Regular Expression Matching  
-
 
 # Greedy
 - [ ] Maximum Subarray	
