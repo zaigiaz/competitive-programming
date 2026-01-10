@@ -54,21 +54,16 @@ public:
 class Solution {
 public:
     static int findLHS(vector<int>& nums) {
-      
-      // 
+
         const int n=nums.size();
 
-	// 
         sort(nums.begin(), nums.end());
 
-	// 
         int maxLen=0;
 
-
-        for(int l=0, r=0; r<n; r++){
+        for(int l=0, r=0; r<n; r++) {
 
 	  // while left hand pointer less than right and value at left less than right-1, increment left pointer
-	  // 
 	  while(l<r && (nums[l] < nums[r]-1)) l++;
 
 	  // if difference is 1, change maxlen value

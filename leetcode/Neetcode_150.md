@@ -1,6 +1,6 @@
 # Number Completed
-- [11/150] (* (/ 11.0 150.0) 100)
-- 7.3% done
+- [13/150] (* (/ 13.0 150.0) 100)
+- 8.66% done
 
 # Arrays and Hashing
 - [x] Contains Duplicate	
@@ -14,14 +14,14 @@
 
 # Two Pointers
 - [x] Valid Palindrome	
-- [ ] Two Sum II Input Array Is Sorted	
+- [x] Two Sum II Input Array Is Sorted	
 - [x] 3Sum	
 - [x] Container With Most Water	
 - [ ] Trapping Rain Water 
 
 # Sliding Window
 - [x] Maximum Average Subarray I
-- [ ] Best Time to Buy And Sell Stock	
+- [x] Best Time to Buy And Sell Stock	
 - [x] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement	
 - [ ] Permutation In String	
