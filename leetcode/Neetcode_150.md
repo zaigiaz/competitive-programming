@@ -1,6 +1,6 @@
 # Number Completed
-- [13/150] (* (/ 13.0 150.0) 100)
-- 8.66% done
+- [14/150] (* (/ 14.0 150.0) 100)
+- 9.33% done
 
 # Arrays and Hashing
 - [x] Contains Duplicate	
@@ -29,7 +29,7 @@
 - [ ] Sliding Window Maximum 
 
 # Stack
-- [ ] Valid Parentheses	
+- [x] Valid Parentheses	
 - [ ] Min Stack	
 - [ ] Evaluate Reverse Polish Notation	
 - [ ] Daily Temperatures	
