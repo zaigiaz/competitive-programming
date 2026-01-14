@@ -1,6 +1,6 @@
 # Number Completed
-- [14/150] (* (/ 14.0 150.0) 100)
-- 9.33% done
+- [15/150] (* (/ 15.0 150.0) 100)
+- 10% done
 
 # Arrays and Hashing
 - [x] Contains Duplicate	
@@ -9,15 +9,15 @@
 - [x] Group Anagrams	
 - [x] Top K Frequent Elements
 - [x] Product of Array Except Self	
-- [ ] Valid Sudoku	
+- [ ] Valid Sudoku
 - [ ] Longest Consecutive Sequence
 
 # Two Pointers
 - [x] Valid Palindrome	
 - [x] Two Sum II Input Array Is Sorted	
-- [x] 3Sum	
+- [x] 3Sum
 - [x] Container With Most Water	
-- [ ] Trapping Rain Water 
+- [ ] Trapping Rain Water
 
 # Sliding Window
 - [x] Maximum Average Subarray I
@@ -30,7 +30,7 @@
 
 # Stack
 - [x] Valid Parentheses	
-- [ ] Min Stack	
+- [x] Min Stack	
 - [ ] Evaluate Reverse Polish Notation	
 - [ ] Daily Temperatures	
 - [ ] Car Fleet	
@@ -150,7 +150,7 @@
 - [ ] Distinct Subsequences	
 - [ ] Edit Distance	
 - [ ] Burst Balloons	
-- [ ] Regular Expression Matching  
+- [ ] Regular Expression Matching
 
 # Greedy
 - [ ] Maximum Subarray	
